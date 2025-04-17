@@ -1,0 +1,19 @@
+.section {
+    color: #16423C;
+    text-align: center;
+    font: bold;
+}
+
+.section h3:hover{
+    color: #00FF9C;
+}
+.div1 {
+    background-color: #E9EFEC;
+    border: 1px solid #fff;
+    margin: 10px 5px 5px 10px;
+    float: left;
+}
+
+.div1:hover {
+    transform: scale(1.3);
+}
